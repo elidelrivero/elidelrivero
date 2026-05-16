@@ -1,16 +1,27 @@
-# ¡Hola! Soy Eli 👋
+# Hola !! Soy Eli 👋
 
-Soy estudiante de Ingeniería en Sistemas, apasionado por el desarrollo de software y el aprendizaje continuo. Me gusta resolver problemas complejos y entender cómo funcionan las cosas a nivel interno.
+Soy estudiante de 6to semestre de Ingeniería en Sistemas, enfocado en el desarrollo de software, la creación de aplicaciones y el diseño de redes. Me apasiona resolver problemas complejos, entender el "porqué" detrás de la tecnología y aplicar metodologías ágiles en mis proyectos.
 
-## 🛠️ Habilidades y Tecnologías
-* **Lenguajes:** C++, Python, SQL
-* **Desarrollo:** Programación concurrente, Bases de datos (MySQL)
-* **Otros:** Redes (Cisco Packet Tracer), Desarrollo Móvil
+Actualmente estoy en búsqueda de una oportunidad como **becario / intern** para aportar valor y seguir creciendo profesionalmente.
 
-## 🚀 Qué estoy haciendo ahora
-* Estudiando mi sexto semestre de Ingeniería.
-* Buscando mi primera oportunidad profesional o prácticas para aplicar mis conocimientos técnicos.
+## Stack Tecnológico y Habilidades
 
-## 📫 Cómo contactarme
-* **LinkedIn:** [Tu enlace a LinkedIn]
-* **Email:** tu.correo@email.com
+* **Lenguajes:** C++, Python, Java
+* **Bases de Datos:** MySQL, Firebase
+* **Desarrollo Móvil y Web:** Flutter, WordPress (Elementor)
+* **Arquitectura y Redes:** Configuración de redes (Cisco Packet Tracer), Programación Concurrente (Hilos)
+* **Metodologías:** Scrum
+
+## Qué estoy haciendo ahora
+
+* 📱 Desarrollando **FocusMode**, una aplicación móvil construida con Flutter y Firebase gestionada bajo la metodología Scrum.
+* 💻 Liderando el rediseño y la gestión de la infraestructura web corporativa para **SAICI** enfocada al sector industrial.
+* 🧠 Investigando sobre la intersección entre la tecnología, la psicología y el rendimiento (la "Zona de Confort").
+
+## ⚡ Un poco más sobre mí
+
+* Cuando no estoy programando, configurando redes o analizando gráficos, lo más seguro es que me encuentres jugando o viendo **básquetbol** 🏀.
+
+## Cómo contactarme
+
+* **Email:** elidelrivero@gmail.com
