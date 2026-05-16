@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Eli 👋
 
-<!--
-**elidelrivero/elidelrivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Sistemas, apasionado por el desarrollo de software y el aprendizaje continuo. Me gusta resolver problemas complejos y entender cómo funcionan las cosas a nivel interno.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades y Tecnologías
+* **Lenguajes:** C++, Python, SQL
+* **Desarrollo:** Programación concurrente, Bases de datos (MySQL)
+* **Otros:** Redes (Cisco Packet Tracer), Desarrollo Móvil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Qué estoy haciendo ahora
+* Estudiando mi sexto semestre de Ingeniería.
+* Buscando mi primera oportunidad profesional o prácticas para aplicar mis conocimientos técnicos.
+
+## 📫 Cómo contactarme
+* **LinkedIn:** [Tu enlace a LinkedIn]
+* **Email:** tu.correo@email.com
