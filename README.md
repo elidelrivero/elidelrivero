@@ -14,9 +14,9 @@ Actualmente estoy en búsqueda de una oportunidad como **becario / intern** para
 
 ## Qué estoy haciendo ahora
 
-* 📱 Desarrollando **FocusMode**, una aplicación móvil construida con Flutter y Firebase gestionada bajo la metodología Scrum.
-* 💻 Liderando el rediseño y la gestión de la infraestructura web corporativa para **SAICI** enfocada al sector industrial.
-* 🧠 Investigando sobre la intersección entre la tecnología, la psicología y el rendimiento (la "Zona de Confort").
+* Desarrollando FocusMode, una aplicación móvil construida con Flutter y Firebase gestionada bajo la metodología Scrum.
+* Liderando el rediseño y la gestión de la infraestructura web corporativa para SAICI enfocada al sector industrial.
+* Investigando sobre la intersección entre la tecnología, la psicología y el rendimiento (la "Zona de Confort").
 
 ## ⚡ Un poco más sobre mí
 
