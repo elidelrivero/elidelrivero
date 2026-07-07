@@ -1,4 +1,4 @@
-# Hola !! Soy Eli 👋
+# Hola !! Soy Eli 
 
 Soy estudiante de 6to semestre de Ingeniería en Sistemas Computacionales en la UVM. Me apasiona el desarrollo de software y la infraestructura de redes. Más que solo escribir código, me gusta entender el problema de raíz y diseñar soluciones eficientes, ya sea optimizando una red o creando una aplicación desde cero.
 
